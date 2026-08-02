@@ -1,72 +1,69 @@
-# Hi, I'm Bengha Paul 👋
+Hi, I’m Bengha Paul 👋
 
-🎓 Final Year Computer Engineering Student  
-💻 Mobile Application Developer  
-🌐 Networking Enthusiast  
-🚀 Building practical solutions through technology
+Computer Engineering Graduate | Mobile App Developer | Network Engineer
 
----
+I am a Bachelor of Engineering graduate in Computer Engineering, specializing in Network Engineering. I build mobile applications and have hands-on experience with network infrastructure, routing and switching, structured cabling, wireless deployments, CCTV systems, and technical troubleshooting.
 
-## About Me
+What I work with
 
-I am a Computer Engineering student passionate about software development, mobile applications, and computer networks.
+Mobile and backend development
 
-I enjoy creating applications that solve real-world problems while continuously improving my skills in modern technologies.
+• React Native
+• Expo and Expo Router
+• JavaScript
+• Supabase Authentication, PostgreSQL, and Storage
+• Mobile authentication, file upload, moderation, and secure session management
 
----
+Networking and infrastructure
 
-## 🛠️ Technologies & Tools
+• Routing and switching
+• VLANs and inter-VLAN routing
+• IP addressing and DHCP
+• ACLs, firewalls, and DMZ design
+• Structured cabling and rack organization
+• Wireless networking and access-point deployment
+• CCTV systems and network troubleshooting
+• Cisco Packet Tracer, PuTTY, Linux, and Windows
 
-### Programming Languages
-- Python
-- JavaScript
-- TypeScript
+Programming
 
-### Mobile Development
-- React Native
-- Expo
+• JavaScript
+• Python
+• C and C++
+• HTML
 
-### Backend & Database
-- Supabase
-- PostgreSQL
+Featured project
 
-### Networking
-- Computer Networks
-- Cisco Technologies
-- Network Programming
+Original Think (OT) Platform
 
-### Tools
-- Git & GitHub
-- VS Code
-- Linux
+A cross-platform mobile platform for preserving, moderating, discovering, and sharing academic project videos, thumbnails, and reports.
 
----
+Key work completed
 
-## 🚀 Featured Projects
+• Built with React Native, Expo, Supabase, and PostgreSQL
+• Implemented registration, email verification, login, password recovery, profiles, project upload, search, and discovery
+• Added likes, comments, saved projects, report downloads, watch history, and notifications
+• Developed guest access and an administrator approval workflow
+• Enforced database-level access control using Row Level Security
+• Added encrypted on-device session storage and upload validation
+• Completed 28 documented functional tests successfully on a physical Android device
 
-### 📱 NetSense
-Mobile application for collecting mobile network user experience data and analyzing Quality of Experience (QoE).
+Selected engineering projects
 
-**Technologies:** React Native, Expo, Supabase, PostgreSQL
+• Enterprise Campus Network: VLANs, inter-VLAN routing, DHCP, ACLs, DMZ placement, and WAN redundancy in Cisco Packet Tracer
+• VoIP System: Asterisk PBX on Ubuntu with SIP clients inside a pfSense-managed network
+• Secure Chat Application: Python client-server chat secured with SSL/TLS
 
----
+Current focus
 
-### 🎓 O'Think
-Educational video-sharing platform designed for students to share and access academic projects and learning resources.
+I am pursuing graduate and entry-level opportunities in:
 
-**Technologies:** React Native, Supabase
+• Mobile application and software development
+• Network engineering and IT infrastructure
+• Systems and technical support
+• Junior security-focused roles
 
----
+Contact
 
-## 📊 Currently Learning
-
-- Advanced Mobile Development
-- Cloud Technologies
-- Software Engineering Practices
-- Network Security
-
----
-
-## 📫 Connect With Me
-
-GitHub: https://github.com/Bengha47
+• Email: paulbengha42@gmail.com
+• GitHub: Bengha47
